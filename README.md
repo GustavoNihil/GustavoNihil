@@ -1,9 +1,5 @@
 ## Zugswang, em um constante devir sem jamais ser.
-- 🔭 I’m currently seek for a joob in the back-end;
-- 🌱 I’m currently learning Django (with Python);
-- ⚡ Fun fact: I have a site of philosophy <br>
-(https://digressoesfilosoficas.herokuapp.com), <br>
-but i studying physics degree.
+https://digressoesfilosoficas.herokuapp.com
 <div align="center">
   <a href="https://github.com/GustavoNihil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoNihil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
