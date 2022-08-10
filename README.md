@@ -1,5 +1,5 @@
 ## Zugswang, em um constante devir sem jamais ser.
-https://digressoesfilosoficas.herokuapp.com
+Site de filosofia estruturado em Django: https://digressoesfilosoficas.herokuapp.com
 <div align="center">
   <a href="https://github.com/GustavoNihil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoNihil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
