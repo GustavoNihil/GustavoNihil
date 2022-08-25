@@ -1,4 +1,4 @@
-## Zugswang, em um constante devir sem jamais ser.
+## Zugswang em um constante devir sem jamais ser.
 Site de filosofia estruturado em Django: https://digressoesfilosoficas.herokuapp.com
 <div align="center">
   <a href="https://github.com/GustavoNihil">
